@@ -1,0 +1,15 @@
+D:\CSharp\Console\while_simbrella\bin\Debug\net7.0\while_simbrella.exe
+D:\CSharp\Console\while_simbrella\bin\Debug\net7.0\while_simbrella.deps.json
+D:\CSharp\Console\while_simbrella\bin\Debug\net7.0\while_simbrella.runtimeconfig.json
+D:\CSharp\Console\while_simbrella\bin\Debug\net7.0\while_simbrella.dll
+D:\CSharp\Console\while_simbrella\bin\Debug\net7.0\while_simbrella.pdb
+D:\CSharp\Console\while_simbrella\obj\Debug\net7.0\while_simbrella.csproj.AssemblyReference.cache
+D:\CSharp\Console\while_simbrella\obj\Debug\net7.0\while_simbrella.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\while_simbrella\obj\Debug\net7.0\while_simbrella.AssemblyInfoInputs.cache
+D:\CSharp\Console\while_simbrella\obj\Debug\net7.0\while_simbrella.AssemblyInfo.cs
+D:\CSharp\Console\while_simbrella\obj\Debug\net7.0\while_simbrella.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\while_simbrella\obj\Debug\net7.0\while_simbrella.dll
+D:\CSharp\Console\while_simbrella\obj\Debug\net7.0\refint\while_simbrella.dll
+D:\CSharp\Console\while_simbrella\obj\Debug\net7.0\while_simbrella.pdb
+D:\CSharp\Console\while_simbrella\obj\Debug\net7.0\while_simbrella.genruntimeconfig.cache
+D:\CSharp\Console\while_simbrella\obj\Debug\net7.0\ref\while_simbrella.dll
